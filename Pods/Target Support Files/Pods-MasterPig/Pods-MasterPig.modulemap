@@ -1,0 +1,6 @@
+module Pods_MasterPig {
+  umbrella header "Pods-MasterPig-umbrella.h"
+
+  export *
+  module * { export * }
+}
